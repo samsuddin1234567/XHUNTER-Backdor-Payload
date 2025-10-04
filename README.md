@@ -21,7 +21,7 @@
   <h3 align="center">XHUNTER</h3>
 
   <p align="center">
-    Android Penetration Tool [ RAT for Android ] 💀
+    Android Penetration Tool [ RAT for Android ] ☠️💀☠️
     <br />
     <a href="https://github.com/anirudhmalik/release">View Release</a>
     ·
@@ -46,7 +46,7 @@ Here's why:
 * The main reason, I did started on this project is to simplify the problem of **connection** between attacker and victim.[Eliminated all port forwarding and over the internet issues]
 * Followed by, I wanted to have control over victims using smartphone📱 with a simple UI app rather then a pc💻 or remote virtual machine🖥 with command line interface. 
 
-Of course, no one will serve all features since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.😀
+Of course, no one will serve all features since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue.👿
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
